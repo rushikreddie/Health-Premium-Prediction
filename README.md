@@ -234,7 +234,6 @@ streamlit run app/app.py
 <div align="center">
 
 **Rushik Reddy**  
-B.Tech in Computer Science (AI Specialisation) · Dr. MGR Educational and Research Institute · CGPA 8.66/10
 
 <a href="https://github.com/rushikreddie">
   <img src="https://img.shields.io/badge/GitHub-rushikreddie-181717?style=for-the-badge&logo=github"/>
