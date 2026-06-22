@@ -245,6 +245,4 @@ streamlit run app/app.py
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=100&section=footer&animation=fadeIn" width="100%"/>
-
-*Built with ❤️ and evidence-driven model iteration*
 </div>
