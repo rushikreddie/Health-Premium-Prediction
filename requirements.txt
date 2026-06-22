@@ -1,19 +1,10 @@
-
-Requirements · TXT
-# ── Core data & ML ──────────────────────────────────────────────
-pandas>=2.3.3
-numpy>=2.2.6
-scikit-learn>=1.7.2        # MinMaxScaler, LinearRegression, Ridge, 			    GridSearchCV, etc.
-xgboost>=3.2.0             # XGBRegressor
-joblib>=1.5.3              # dump / load model artifacts
-statsmodels>=0.14.6        # variance_inflation_factor (VIF)
- 
-# ── Visualisation ────────────────────────────────────────────────
-matplotlib>=3.10.8
-seaborn>=0.13.2
- 
-# ── Data ingestion ───────────────────────────────────────────────
-openpyxl>=3.1.5            # pd.read_excel() for .xlsx files
- 
-# ── Web app ──────────────────────────────────────────────────────
-streamlit>=1.54.0
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+statsmodels
+matplotlib
+seaborn
+openpyxl
+streamlit
